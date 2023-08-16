@@ -15,6 +15,6 @@
 - [ ] Mute Other Participants
 - [ ] Record Meetings
 - [ ] Encryption
-- [ ] Remove background
-- [ ] Remove noise
+- [ ] Remove video background
+- [ ] Remove background noise
 - [ ] Whiteboard
